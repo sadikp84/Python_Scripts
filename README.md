@@ -1,2 +1,2 @@
-# sample_repo
+# Python Scripts
 # created sample codes for reference
