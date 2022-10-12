@@ -1,4 +1,4 @@
-#Author: OMKAR PATHAK
+#Author: Sadik Patel
 #This program prints various patterns
 
 def pattern1(level):
